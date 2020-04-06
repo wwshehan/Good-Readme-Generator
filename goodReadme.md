@@ -1,4 +1,5 @@
-# 09-Good-README-Generator
+
+# GoodReadMe Generator
 
 ![license-badge](https://img.shields.io/badge/license-None-blue)
 
@@ -40,4 +41,3 @@ npm run test
 <img src="https://avatars0.githubusercontent.com/u/59990106?v=4" style= width='25'/>
 For any questions regarding the repo, contact 
 [wwshehan] or you can email me at wwshehan@gmail.com.
-![readMe-gif](/assets/goodReadme.gif)
