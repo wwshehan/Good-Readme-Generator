@@ -18,7 +18,7 @@ Generates good readmes
 
 ### To install dependencies, run:
 ```
-undefined
+npm install
 ```
 
 ## Usage
