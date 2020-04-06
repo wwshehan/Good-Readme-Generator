@@ -39,9 +39,9 @@ ${data.test}
 \`\`\`
 
 ## Questions?
-<img src="${data.avatar_url}" style= width='25'/>
-For any questions regarding the repo, contact 
-[${data.username}] or you can email me at ${data.contact}.
+<img src= "${data.avatar_url}" alt="profile picture" width= "45">
+### For any questions regarding the repo, contact: 
+${data.username} or you can email me at ${data.contact}.
 `;
 }
 
