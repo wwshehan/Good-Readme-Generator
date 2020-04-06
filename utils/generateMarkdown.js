@@ -20,7 +20,7 @@ ${data.description}
 
 ### To install dependencies, run:
 \`\`\`
-${data.installation}
+${data.install}
 \`\`\`
 
 ## Usage

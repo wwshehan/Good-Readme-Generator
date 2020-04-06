@@ -1,10 +1,10 @@
 
-# GoodReadMe Generator
+# Good Readme Generator
 
 ![license-badge](https://img.shields.io/badge/license-None-blue)
 
 ## Description
-Generates good readmes
+Writes great readMe's with ease.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Generates good readmes
 
 ### To install dependencies, run:
 ```
-undefined
+npm install
 ```
 
 ## Usage
@@ -38,6 +38,6 @@ npm run test
 ```
 
 ## Questions?
-<img src="https://avatars0.githubusercontent.com/u/59990106?v=4" style= width='25'/>
-For any questions regarding the repo, contact 
-[wwshehan] or you can email me at wwshehan@gmail.com.
+<img src= "https://avatars0.githubusercontent.com/u/59990106?v=4" alt="profile picture" width= "45">
+### For any questions regarding the repo, contact: 
+wwshehan or you can email me at wwshehan@gmail.com.
